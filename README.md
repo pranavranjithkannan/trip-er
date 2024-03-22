@@ -1,8 +1,5 @@
 
 # Trip-er : AI-Powered Travel Planner
-
-Trip-er is an intelligent and personalized travel planning application that utilizes the power of artificial intelligence (AI) to create tailored itineraries for your dream trips. With Trip-er, you can plan your perfect vacation with ease, exploring new destinations and experiencing unforgettable adventures.
-
 ## Description
 
 Trip-er is designed to be your ultimate travel companion, empowering you to discover, plan, and navigate your travel experiences with confidence and convenience. By leveraging advanced AI technologies, Trip-erA provides personalized recommendations, interactive maps, and essential travel information to enhance your exploration and enjoyment of destinations worldwide.
